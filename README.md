@@ -1,9 +1,9 @@
 # Predicting-the-chances-of-Admission-using-Machine-Learning-model
 
-Business Problem:
-Jamboree Education helps students in securing admission in top colleges abroad by helping them in GMAT, GRE, SAT etc. They  launched a feature where students can come to their website and check their probability of getting into the good colleges. This feature estimates the chances of graduate admission based on their inputs. By employing Linear Regression, I created a predictive model for estimating the probability of students securing admission to foreign universities based on their GMAT, GRE, SAT scores, and academic backgrounds.
+Business Problem:<p>
+Jamboree Education helps students in securing admission in top colleges abroad by helping them in GMAT, GRE, SAT etc. They  launched a feature where students can come to their website and check their probability of getting into the good colleges. This feature estimates the chances of graduate admission based on their inputs. By employing Linear Regression, I created a predictive model for estimating the probability of students securing admission to foreign universities based on their GMAT, GRE, SAT scores, and academic backgrounds.<p>
 
-Below analysis was done:
+Below analysis was done:<p>
 
 Data Preprocessing:  Preprocessed the dataset, addressing issues like multicollinearity through variance inflation factor (VIF) analysis, ensuring data integrity and reducing model bias.
 Feature Engineering:  Engineered relevant features, considering factors such as test scores, academic history, and applicant demographics, to enhance model interpretability and predictive accuracy.
